@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "required": ["products", "total"],
+  "properties": {
+    "products": {
+      "type": "array"
+    },
+    "total": {
+      "type": "number"
+    }
+  }
+}
